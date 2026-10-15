@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 vinicius vinicius 4096 Oct 15 10:50 Desktop
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Documents
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Downloads
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Music
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Pictures
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Public
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Templates
+drwxr-xr-x 2 vinicius vinicius 4096 Oct  8 18:00 Videos
+-rwxrwxr-x 1 vinicius vinicius  566 Oct 15 11:34 bash_script.sh
+-rw-rw-r-- 1 vinicius vinicius    0 Oct 15 12:57 lista_HOME.txt
+-rw-rw-r-- 1 vinicius vinicius 3319 Oct 15 12:36 script_CDS.py
+-rw-rw-r-- 1 vinicius vinicius 1453 Oct 15 11:47 script_hipotenusa.py
+-rw-rw-r-- 1 vinicius vinicius 1486 Oct 15 11:38 script_ntcomp.py
+drwx------ 4 vinicius vinicius 4096 Oct 13 14:11 snap
